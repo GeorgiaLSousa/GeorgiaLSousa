@@ -10,8 +10,7 @@
 
 ### Contacts
 
-[![Gmail GeorgiaLSousa](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgialigia18@gmail.com)
-[![Linkedin GeorgiaLSousa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ge%C3%B3rgia-ligia-612231261/)
+
 
 <div style="display: inline_block">
 	<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -21,7 +20,11 @@
   <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiaLSousa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+[![Linkedin GeorgiaLSousa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ge%C3%B3rgia-ligia-612231261/)
 
 ### Contributions in recent weeks
 ![GeorgiaLSousa(1)](https://github.com/user-attachments/assets/bbc20707-0ded-4969-8f9c-cfec8965d0da)
