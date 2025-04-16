@@ -24,8 +24,4 @@
 
 [![Linkedin GeorgiaLSousa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ge%C3%B3rgia-ligia-612231261/)
 
-### Contributions in recent weeks
-![GeorgiaLSousa(1)](https://github.com/user-attachments/assets/bbc20707-0ded-4969-8f9c-cfec8965d0da)
-
-
 
