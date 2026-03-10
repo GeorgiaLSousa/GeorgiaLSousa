@@ -1,11 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1709F7&width=435&lines=Hello%2C+my+name+is+Ge%C3%B3rgia;I'am+Software+Developer)](https://git.io/typing-svg)
 <br>
-💼I currently work at Syngenta, as a developer and data analyst.
+💼I currently work at Santander as a software developer.
 <br>
-🎓Study at the Senac University Center in Systems Analysis and Development
+🎓I have a degree in Systems Analysis and Development.
 <br>
-👨‍💻My current focus is Java Back End for Web Applications
+👨‍💻My focus is on back-end development in Java and frameworks for web applications.
 <br>
 
 
