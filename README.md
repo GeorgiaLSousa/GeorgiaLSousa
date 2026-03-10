@@ -1,11 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1709F7&width=435&lines=Hello%2C+my+name+is+Ge%C3%B3rgia;I'am+Software+Developer)](https://git.io/typing-svg)
 <br>
-💼I currently work at Santander as a software developer.
+💼 I currently work at Santander as a software developer.
 <br>
-🎓I have a degree in Systems Analysis and Development.
+🎓 I have a degree in Systems Analysis and Development.
 <br>
-👨‍💻My focus is on back-end development in Java and frameworks for web applications.
+👨‍💻 My focus is on back-end software development using Java and the Spring framework for web applications.
 <br>
 
 
@@ -19,8 +19,6 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiaLSousa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
 [![Linkedin GeorgiaLSousa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ge%C3%B3rgia-ligia-612231261/)
 
