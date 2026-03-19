@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1709F7&width=435&lines=Hello%2C+my+name+is+Ge%C3%B3rgia;I'am+Software+Developer)](https://git.io/typing-svg)
 <br>
-💼 I currently work at Santander as a software developer.
+💼 I currently work at Santander as a software Engineer.
 <br>
 🎓 I have a degree in Systems Analysis and Development.
 <br>
